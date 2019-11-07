@@ -1,15 +1,3 @@
-# My-AWS-notes
-Amazon Web Services Notes
-
-# EC2
-- EC2 let us create virctual machines on AWS
-
-## S3
-
-
-### VPC
-### Cloud Formation Template to lunch a AWS environment.
-
   
 {
   "AWSTemplateFormatVersion": "2010-09-09",
